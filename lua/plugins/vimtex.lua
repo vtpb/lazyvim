@@ -28,6 +28,9 @@ return {
       split_width = "30",
       fold_enable = 1,
     }
+    require("which-key").add({
+      { "<leader>t", group = "tex" }, -- group
+    })
   end,
   keys = function()
     -- TODO: Add to whichkey
