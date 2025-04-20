@@ -13,8 +13,8 @@ return {
         "python",
         -- "latex", -- some issues
         "bibtex",
-        "markdown", -- required for obsidian.nvim
-        "markdown_inline", -- required for obsidian.nvim
+        "markdown",
+        "markdown_inline",
         "diff",
         "gitcommit",
         "vimdoc",
